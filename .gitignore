@@ -1,0 +1,3 @@
+*.map
+/static/js/*.map
+/static/css/*.map
